@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta name="author" content="Jonathan Price" />
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway:100">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
+    <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/Ultralight-UK.rss" />
+    <script type="text/javascript">
+		  var _gaq = _gaq || [];
+  		_gaq.push(['_setAccount', 'UA-24824875-3']);
+  		_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	</head>
+	<body>
+		<header>
+			<div class="titles">
+				<h1><a href="{{ site.baseurl }}/">Ultralight UK</a></h1>
+				<h3>Ultralight Hiking in the UK</h3>
+			</div>
+		</header>
+		<section class="root">
+			{% if page.banner %}
+				<section style="background-image: url({{ site.baseurl }}{{ page.banner }})" class="banner"></section>
+			{% else %}
+				<section style="background-image: url({{ site.baseurl }}{{ site.banner }})" class="banner"></section>
+			{% endif %}
+			{{ content }}
+			<footer>
+				<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
+				Ultralight UK</span>
+	 			by
+ 				<a xmlns:cc="http://creativecommons.org/ns#" href="http://notclive.co.uk/" property="cc:attributionName" rel="cc:attributionURL">
+				Jonathan Price</a>
+			  is licensed under a
+			  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://creativecommons.org']);">
+		  	Creative Commons License.</a>
+				<a href="{{ site.baseurl }}/Ultralight-UK.rss">RSS Feed</a>
+			</footer>
+		</section>
+	</body>
+</html>
+

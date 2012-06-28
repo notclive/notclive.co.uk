@@ -1,0 +1,11 @@
+server: false
+destination: /var/www/notclive.co.uk/ul/
+baseurl: http://notclive.co.uk/ul
+banner: /img/2011/Welsh-3000ers/banner.jpg
+
+markdown: rdiscount
+permalink: /:year/:title
+
+rdiscount
+  extensions: [smart]
+

@@ -1,0 +1,149 @@
+body {
+	margin: 0px;
+	min-width: 600px;
+	font-family: sans-serif;
+}
+
+a {
+	color: #758834;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.root, .titles {
+	max-width: 1000px;
+	padding: 0px 100px;
+	margin: auto;
+}
+
+@media (min-width: 1100px) {
+	
+	html {
+		font-size: 1.45em
+	}
+	
+}
+
+@media (min-width: 900px) and (max-width: 1100px) {
+	
+	html {
+		font-size: 1.3em
+	}
+	
+}
+
+@media (min-width: 700px) and (max-width: 900px) {
+	
+	html {
+		font-size: 1.15em
+	}
+	
+}
+
+/**************************** Header Bar ****************************/
+
+header {
+	font-family: Raleway;
+	padding: 15px 0px;
+	color: white;
+	margin: auto;
+	background: #222;
+	border-bottom: 7px solid #111;
+}
+
+header h1, header h3 {
+	margin: 0px;
+	display: inline-block;
+}
+
+header h1 {
+	font-weight: normal;
+	margin-right: 10px;
+	font-size: 3rem;
+}
+
+header h3 {
+	font-size: 2rem;
+}
+
+header a {
+	color: white;
+	text-decoration: none;
+}
+
+header a:hover {
+	color: lightgray;
+}
+
+
+/**************************** Banner ****************************/
+
+.banner {
+	height: 250px;
+	margin: 10px 0px 20px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+/**************************** Blog Post ****************************/
+
+.date { /* moves date to left */
+	height: 0px;
+	line-height: 2rem;
+	font-size: 1.5rem;
+	position: relative;
+	left: -120px;
+	color: #DD322D;
+}
+
+.date div {
+	text-align: right;
+	width: 100px;
+}
+
+.blogTitle {
+	margin: 0px;
+	font-size: 2rem
+}
+
+.blogTitle a {
+	color: black;
+	display: block;
+	text-decoration: none;
+}
+
+.blogTitle a:hover {
+	color: gray;
+}
+
+.blogContent {
+	margin: 10px 0px 80px 0px;
+}
+
+.blogContent p {
+	margin-top: 0px;
+}
+
+.blogContent img {
+	max-width: 80%;
+	max-height: 800px;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+/**************************** Footer ****************************/
+
+footer {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+/**************************** Disqus ***************************/
+
+#dsq-subscribe {
+	display: none;
+}
+
+
