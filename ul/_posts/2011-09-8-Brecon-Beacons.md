@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ul-post
 title: Brecon Beacons
 category: Trips
 ---

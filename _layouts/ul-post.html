@@ -1,0 +1,28 @@
+---
+layout: layout
+---
+
+<article>
+	<div class="date">
+		<div>{{ page.date | date: "%d" }}</div>
+		<div>{{ page.date | date: "%b" }}</div>
+		<div>{{ page.date | date: "%Y" }}</div>
+	</div>
+	<h1 class="blogTitle">
+		<a href="{{ site.ul-base }}/{{ page.url }}">
+			{{ page.title }}
+		</a>
+	</h1>
+	<div class="blogContent">	
+		{{ content }}
+	</div>
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+		var disqus_shortname = 'ultralightuk';
+		(function() {
+			var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+			dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		})();
+	</script>
+</article>

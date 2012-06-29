@@ -1,5 +1,7 @@
-baseurl: /notclive.co.uk/ul/
-banner: /img/2011/Welsh-3000ers/banner.jpg
+baseurl: /notclive.co.uk
+
+ul-base: /notclive.co.uk/ul
+ul-banner: img/2011/Welsh-3000ers/banner.jpg
 
 markdown: rdiscount
 permalink: /:year/:title

@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: ul-index
 title: Ultralight UK
 ---
 
@@ -11,13 +11,13 @@ title: Ultralight UK
 			<div>{{ post.date | date: "%Y" }}</div>
 		</div>
 		<h1 class="blogTitle">
-			<a href="{{ site.baseurl }}{{ post.url }}">
+			<a href="{{ site.ul-base }}/{{ post.url }}">
 				{{ post.title }}
 			</a>
 		</h1>
 		<div class="blogContent">	
 			{{ post.content | truncatewords: 75 }}
-			<a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
+			<a href="{{site.ul-base}}/{{ post.url }}">Continue Reading</a>
 		</div>
 	</article>
 {% endfor %}
