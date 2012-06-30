@@ -1,7 +1,6 @@
 ---
 layout: ul-post
 title: Brecon Beacons
-category: Trips
 ---
 
 I didn’t have a real goal for this trip I just wanted to go and do some hiking. I ended up hiking about 92km and getting 15 peaks above 2000m. Regrettably I forgot to bring a camera on this trip so have no photos.

@@ -1,7 +1,6 @@
 ---
 layout: ul-post
 title: Reducing Trouser Weight
-category: Modifications
 published: false
 ---
 

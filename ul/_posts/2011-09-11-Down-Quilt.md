@@ -1,7 +1,6 @@
 ---
 layout: ul-post
 title: Down Quilt
-category: MYOG
 banner: /img/2011/Down-Quilt/quilt2.jpg
 ---
 

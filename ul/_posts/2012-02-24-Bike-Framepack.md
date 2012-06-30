@@ -1,7 +1,6 @@
 ---
 layout: ul-post
 title: Bike Framepack
-category: MYOG
 banner: /img/2012/Bike-Framepack/bike.jpg
 ---
 

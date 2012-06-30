@@ -1,7 +1,6 @@
 ---
 layout: ul-post
 title: Cuben Fiber Daypack
-category: MYOG
 banner: /img/2012/Cuben-Fiber-Daypack/side.jpg
 ---
 

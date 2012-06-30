@@ -1,7 +1,6 @@
 ---
 layout: ul-post
 title: Petzl e+LITE Modification
-category: Modifications
 banner: /img/2012/Petzl-e+LITE-Modification/modified.jpg
 ---
 
