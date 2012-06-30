@@ -26,9 +26,9 @@
 		</header>
 		<section class="root">
 			{% if page.banner %}
-				<section style="background-image: url({{ site.ul-base }}{{ page.banner }})" class="banner"></section>
+				<section style="background-image: url({{ site.ul-base }}/{{ page.banner }})" class="banner"></section>
 			{% else %}
-				<section style="background-image: url({{ site.ul-base }}{{ site.ul-banner }})" class="banner"></section>
+				<section style="background-image: url({{ site.ul-base }}/{{ site.ul-banner }})" class="banner"></section>
 			{% endif %}
 			{{ content }}
 			<footer>

@@ -11,13 +11,13 @@ title: Ultralight UK
 			<div>{{ post.date | date: "%Y" }}</div>
 		</div>
 		<h1 class="blogTitle">
-			<a href="{{ site.ul-base }}/{{ post.url }}">
+			<a href="{{ post.url }}">
 				{{ post.title }}
 			</a>
 		</h1>
 		<div class="blogContent">	
 			{{ post.content | truncatewords: 75 }}
-			<a href="{{site.ul-base}}/{{ post.url }}">Continue Reading</a>
+			<a href="{{ post.url }}">Continue Reading</a>
 		</div>
 	</article>
 {% endfor %}
