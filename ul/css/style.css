@@ -1,6 +1,6 @@
 body {
 	margin: 0px;
-	min-width: 600px;
+	min-width: 560px;
 	font-family: sans-serif;
 }
 
@@ -14,7 +14,7 @@ a:hover {
 
 .root, .titles {
 	max-width: 1000px;
-	padding: 0px 100px;
+	padding: 0 80px;
 	margin: auto;
 }
 
@@ -40,7 +40,7 @@ a:hover {
 
 header {
 	font-family: Raleway;
-	padding: 15px 0px;
+	padding: 15px 0;
 	color: #999;
 	margin: auto;
 	background: #222;
@@ -91,13 +91,13 @@ article {
 	height: 0;
 	position: relative;
 	top: 1rem;
-	left: -120px;
+	left: -100px;
 	color: #DD322D;
 }
 
 .date div {
 	text-align: right;
-	width: 100px;
+	width: 80px;
 }
 
 .blogTitle {
