@@ -76,6 +76,7 @@ header a:hover {
 /**************************** Banner ****************************/
 
 .banner {
+  border: 1px solid #333;
 	height: 250px;
 	margin: 1.5rem 0;
 	background-size: cover;
@@ -123,7 +124,7 @@ article {
 .blogContent img {
 	max-width: 80%;
 	max-height: 800px;
-	border: 1px solid #000;
+	border: 1px solid #333;
 	padding: 5px;
 }
 
