@@ -1,6 +1,6 @@
 body {
 	margin: 0px;
-	min-width: 560px;
+	min-width: 480px;
 	font-family: sans-serif;
 }
 
@@ -14,7 +14,7 @@ a:hover {
 
 .root, .titles {
 	max-width: 1000px;
-	padding: 0 80px;
+	padding: 0 70px;
 	margin: auto;
 }
 
@@ -48,7 +48,7 @@ header {
 }
 
 header h1, header h3 {
-	margin: 0px;
+	margin: 0;
 	display: inline-block;
 }
 
@@ -91,13 +91,13 @@ article {
 	height: 0;
 	position: relative;
 	top: 1rem;
-	left: -100px;
+	left: -90px;
 	color: #DD322D;
 }
 
 .date div {
 	text-align: right;
-	width: 80px;
+	width: 70px;
 }
 
 .blogTitle {
