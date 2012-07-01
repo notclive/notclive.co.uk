@@ -19,27 +19,21 @@ a:hover {
 }
 
 @media (min-width: 1100px) {
-	
 	html {
 		font-size: 1.45em
 	}
-	
 }
 
 @media (min-width: 900px) and (max-width: 1100px) {
-	
 	html {
 		font-size: 1.3em
 	}
-	
 }
 
 @media (min-width: 700px) and (max-width: 900px) {
-	
 	html {
 		font-size: 1.15em
 	}
-	
 }
 
 /**************************** Header Bar ****************************/
@@ -47,7 +41,7 @@ a:hover {
 header {
 	font-family: Raleway;
 	padding: 15px 0px;
-	color: white;
+	color: #999;
 	margin: auto;
 	background: #222;
 	border-bottom: 7px solid #111;
@@ -69,12 +63,12 @@ header h3 {
 }
 
 header a {
-	color: white;
+	color: #999;
 	text-decoration: none;
 }
 
 header a:hover {
-	color: lightgray;
+	color: #666;
 }
 
 
@@ -82,18 +76,21 @@ header a:hover {
 
 .banner {
 	height: 250px;
-	margin: 10px 0px 20px 0px;
+	margin: 1.5rem 0;
 	background-size: cover;
 	background-position: center;
 }
 
 /**************************** Blog Post ****************************/
 
+article {
+  margin: 0 0 5rem 0;
+}
+
 .date { /* moves date to left */
-	height: 0px;
-	line-height: 2rem;
-	font-size: 1.5rem;
+	height: 0;
 	position: relative;
+	top: 1rem;
 	left: -120px;
 	color: #DD322D;
 }
@@ -104,8 +101,8 @@ header a:hover {
 }
 
 .blogTitle {
-	margin: 0px;
-	font-size: 2rem
+	margin: 0;
+	font-size: 2.5rem
 }
 
 .blogTitle a {
@@ -118,12 +115,8 @@ header a:hover {
 	color: gray;
 }
 
-.blogContent {
-	margin: 10px 0px 80px 0px;
-}
-
 .blogContent p {
-	margin-top: 0px;
+	margin: 1rem 0;
 }
 
 .blogContent img {
@@ -145,5 +138,3 @@ footer {
 #dsq-subscribe {
 	display: none;
 }
-
-

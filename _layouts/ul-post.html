@@ -3,16 +3,16 @@ layout: ul-page
 ---
 
 <article>
-	<div class="date">
-		<div>{{ page.date | date: "%d" }}</div>
-		<div>{{ page.date | date: "%b" }}</div>
-		<div>{{ page.date | date: "%Y" }}</div>
-	</div>
 	<h1 class="blogTitle">
 		<a href="{{ page.url }}">
 			{{ page.title }}
 		</a>
 	</h1>
+	<div class="date">
+		<div>{{ page.date | date: "%d" }}</div>
+		<div>{{ page.date | date: "%b" }}</div>
+		<div>{{ page.date | date: "%Y" }}</div>
+	</div>
 	<div class="blogContent">	
 		{{ content }}
 	</div>
