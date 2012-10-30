@@ -39,7 +39,7 @@ a:hover {
 
 /**************************** Header Bar ****************************/
 
-header {
+.header {
 	font-family: Raleway;
 	padding: 15px 0;
 	color: #999;
@@ -48,27 +48,27 @@ header {
 	border-bottom: 7px solid #111;
 }
 
-header h1, header h3 {
+.header h1, .header h3 {
 	margin: 0;
 	display: inline-block;
 }
 
-header h1 {
+.header h1 {
 	font-weight: normal;
 	margin-right: 10px;
 	font-size: 3rem;
 }
 
-header h3 {
+.header h3 {
 	font-size: 2rem;
 }
 
-header a {
+.header a {
 	color: #999;
 	text-decoration: none;
 }
 
-header a:hover {
+.header a:hover {
 	color: #666;
 }
 
@@ -85,7 +85,7 @@ header a:hover {
 
 /**************************** Blog Post ****************************/
 
-article {
+.article {
   margin: 0 0 5rem 0;
 }
 
@@ -130,7 +130,7 @@ article {
 
 /**************************** Footer ****************************/
 
-footer {
+.footer {
 	margin-bottom: 1.5rem;
 }
 

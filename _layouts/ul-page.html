@@ -24,28 +24,28 @@
 		</script>
 	</head>
 	<body>
-		<header>
+		<div class="header">
 			<div class="titles">
 				<h1><a href="{{ site.ul-base }}/">Ultralight UK</a></h1>
 				<h3>Ultralight Hiking in the UK</h3>
 			</div>
-		</header>
-		<section class="root">
+		</div>
+		<div class="root">
 			{% if page.banner %}
 				<section style="background-image: url({{ site.ul-base }}/{{ page.banner }})" class="banner"></section>
 			{% else %}
 				<section style="background-image: url({{ site.ul-base }}/{{ site.ul-banner }})" class="banner"></section>
 			{% endif %}
 			{{ content }}
-			<footer>
+			<div class="footer">
 				<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ultralight UK</span>
 	 			by
  				<a xmlns:cc="http://creativecommons.org/ns#" href="http://notclive.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Jonathan Price</a>
 			  	is licensed under a
 			  	<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://creativecommons.org']);">Creative Commons License</a>.
 				<a href="{{ site.ul-base }}/Ultralight-UK.rss">RSS Feed</a>
-			</footer>
-		</section>
+			</div>
+		</div>
 	</body>
 </html>
 

@@ -3,7 +3,7 @@ layout: ul-page
 ---
 
 {% for post in site.posts %}
-	<article>
+	<div class="article">
 		<h1 class="blogTitle">
 			<a href="{{ post.url }}">
 				{{ post.title }}
@@ -18,5 +18,5 @@ layout: ul-page
 			{{ post.content | truncatewords: 75 }}
 			<a href="{{ post.url }}">Continue Reading</a>
 		</div>
-	</article>
+	</div>
 {% endfor %}
