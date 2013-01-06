@@ -92,7 +92,6 @@ a:hover {
 .date { /* moves date to left */
 	height: 0;
 	position: relative;
-	top: 1rem;
 	left: -90px;
 	color: #DD322D;
 }
