@@ -7,8 +7,7 @@ I didn’t have a real goal for this trip I just wanted to go and do some hiking
 
 I made changes to my gear based on my hike in Snowdonia, so I was testing new gear yet again. I added a pertex top to my groundsheet to make a windproof/water-resistant bivy bag, this kept me a lot warmer as draughts couldn’t get through my quilt. In the longer term I will make a new bigger quilt probably making it full size and only using my down jacket in the winter.
 
-Trip Report
------------
+##Trip Report##
 
 ###Day 1 (35.24 km)####
 
@@ -26,7 +25,6 @@ I new I could get a bus back from Dan yr Ogof the next day so I decided to loop 
 
 It was a short walk down to Dan yr Ogof in the morning where I caught the bus back home.
 
-Gear
-----
+##Gear##
 
 [My gear list](http://www.geargrams.com/list?id=3990). My base weight was just under 10lbs so classes as ultralight. I was carrying about 3kg food for 3+ days, this was definitely too much, I will cut back on food a lot next trip. I brought my Kindle eBook reader, I barely spent any time reading it, I will definitely not bring it next time. I would like to make a new tarp with beaks to stop sideways rain, I would use this with just a bug bivy on the inside.
