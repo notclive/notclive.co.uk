@@ -56,10 +56,12 @@ a:hover {
 .header h1 {
 	font-weight: normal;
 	margin-right: 10px;
+	font-size: 54px;
 	font-size: 3rem;
 }
 
 .header h3 {
+  font-size: 36px;
 	font-size: 2rem;
 }
 
@@ -90,6 +92,7 @@ a:hover {
 }
 
 .article {
+  margin: 0 0 90px 0;
   margin: 0 0 5rem 0;
 }
 
@@ -107,7 +110,8 @@ a:hover {
 
 .blogTitle {
 	margin: 0;
-	font-size: 2.5rem
+	font-size: 45px;
+	font-size: 2.5rem;
 }
 
 .blogTitle a {
@@ -121,6 +125,7 @@ a:hover {
 }
 
 .blogContent p {
+	margin: 0 0 18px;
 	margin: 0 0 1rem;
 }
 
@@ -134,5 +139,6 @@ a:hover {
 /**************************** Footer ****************************/
 
 .footer {
+	margin: 27px 0;
 	margin: 1.5rem 0;
 }
