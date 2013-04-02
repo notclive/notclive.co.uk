@@ -1,6 +1,6 @@
 ---
 layout: ul-post
-title: Bike Framepack
+title: Bike Frame Pack
 banner: /img/2012/Bike-Framepack/bike.jpg
 ---
 
