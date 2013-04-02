@@ -4,8 +4,8 @@ title: Smaller Frame Pack
 banner: /img/2013/Frame-Pack/Box-Hill.jpg
 ---
 
-Last year I made a [frame pack]({{ site.ul-base }}/2012/Bike-Framepack/) allowing me to carry things whilst on my bike without wearing a backpack.
-I've been cycling more recently and wanted to carry a water bottle within reach, but I still wanted a frame pack to carry my lock and tools. So I made a new smaller frame pack that only used up half of the frame space.
+Last year I made a [frame pack]({{ site.ul-base }}/2012/Bike-Framepack/) allowing me to carry things, whilst on my bike, without wearing a backpack.
+I've been cycling more recently and wanted to carry a water bottle within reach, but I still wanted a pack to carry my lock and tools. So I made a smaller frame pack that only used up half of the frame space.
 
 ![Close Up]({{ site.ul-base }}/img/2013/Frame-Pack/Close-Up.jpg)
 
