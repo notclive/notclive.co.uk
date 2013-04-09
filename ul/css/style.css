@@ -101,6 +101,7 @@ a:hover {
 	position: relative;
 	left: -90px;
 	color: #DD322D;
+    line-height: 1.4;
 }
 
 .date div {
@@ -127,6 +128,7 @@ a:hover {
 .blogContent p {
 	margin: 0 0 18px;
 	margin: 0 0 1rem;
+    line-height: 1.4;
 }
 
 .blogContent img {
