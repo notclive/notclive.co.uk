@@ -26,9 +26,9 @@
 	</head>
 	<body>
 		<div class="header">
-			<div class="titles">
+			<div class="titles centered">
 				<h1><a href="{{ site.ul-base }}/">Ultralight UK</a></h1>
-				<h3>Ultralight Hiking in the UK</h3>
+				<h2>Ultralight Hiking in the UK</h2>
 			</div>
 			{% if page.banner %}
     			<div style="background-image: url({{ site.ul-base }}/{{ page.banner }})" class="banner"></div>
@@ -36,16 +36,13 @@
 				<div style="background-image: url({{ site.ul-base }}/{{ site.ul-banner }})" class="banner"></div>
 			{% endif %}
 		</div>
-		<div class="root">
-			{{ content }}
-			<div class="footer">
-				<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ultralight UK</span>
-	 			by
- 				<a xmlns:cc="http://creativecommons.org/ns#" href="http://notclive.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Jonathan Price</a>
-			  	is licensed under a
-			  	<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://creativecommons.org']);">Creative Commons License</a>.
-				<a href="{{ site.ul-base }}/Ultralight-UK.rss">RSS Feed</a>
-			</div>
+		{{ content }}
+		<div class="article centered">
+			<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ultralight UK</span>
+ 			by
+			<a xmlns:cc="http://creativecommons.org/ns#" href="http://notclive.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Jonathan Price</a>
+		  	is licensed under a
+		  	<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://creativecommons.org']);">Creative Commons License</a>.
 		</div>
 	</body>
 </html>
