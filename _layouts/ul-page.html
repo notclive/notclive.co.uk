@@ -2,10 +2,10 @@
 <html>
   <head>
     <title>
-		  {% if page.title %}
-        {{ page.title }} - 
-		  {% endif %}
-		  Ultralight UK
+        {% if page.title %} 
+            {{ page.title }} -
+        {% endif %}
+        Ultralight UK
     </title>
     <meta name="author" content="Jonathan Price" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,13 +30,13 @@
 				<h1><a href="{{ site.ul-base }}/">Ultralight UK</a></h1>
 				<h3>Ultralight Hiking in the UK</h3>
 			</div>
-		</div>
-		<div class="root">
 			{% if page.banner %}
-				<div style="background-image: url({{ site.ul-base }}/{{ page.banner }})" class="banner"></div>
+    			<div style="background-image: url({{ site.ul-base }}/{{ page.banner }})" class="banner"></div>
 			{% else %}
 				<div style="background-image: url({{ site.ul-base }}/{{ site.ul-banner }})" class="banner"></div>
 			{% endif %}
+		</div>
+		<div class="root">
 			{{ content }}
 			<div class="footer">
 				<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ultralight UK</span>
