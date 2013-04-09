@@ -1,6 +1,6 @@
 ---
 layout: ul-post
-title: Smaller Frame Pack
+title: Partial Frame Pack
 banner: /img/2013/Frame-Pack/Box-Hill.jpg
 ---
 
