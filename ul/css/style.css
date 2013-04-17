@@ -1,38 +1,71 @@
 body {
     color: #0F0F00;
     margin: 0;
-	min-width: 480px;
 	font-family: sans-serif;
     background-image: linear-gradient( top, #fff 0%, #eee 100% );
     background-image: -o-linear-gradient( top, #fff 0%, #eee 100% );
     background-image: -moz-linear-gradient( top, #fff 0%, #eee 100% );
     background-image: -webkit-linear-gradient( top, #fff 0%, #eee 100% );
     background-image: -ms-linear-gradient( top, #fff 0%, #eee 100% );
-
 }
 
 .centered {
 	max-width: 920px;
-	padding: 0 70px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+/* moves date below header */
+@media (max-width: 800px) {
+
+	html {
+		font-size: 18px
+	}
+
+    .date {
+        margin-bottom: 18px;
+        margin-bottom: 1rem;
+    }
+
+    .date div {
+        display: inline-block;
+    }
+    
+    .centered {
+        padding: 0 18px;
+        padding: 0 1rem;
+    }
+}
+
+/* moves date to left */
+@media (min-width: 800px) {
+
+	html {
+		font-size: 20px
+	}
+
+    .date {
+	    height: 0;
+	    position: relative;
+	    left: -88px;
+	    color: #d22042;
+        line-height: 1.4;
+    }
+
+    .date div {
+	    text-align: right;
+	    width: 70px;
+    }
+    
+        
+    .centered {
+        padding: 0 90px;
+    }
 }
 
 @media (min-width: 1100px) {
 	html {
 		font-size: 22px
-	}
-}
-
-@media (min-width: 900px) and (max-width: 1100px) {
-	html {
-		font-size: 20px
-	}
-}
-
-@media (min-width: 700px) and (max-width: 900px) {
-	html {
-		font-size: 18px
 	}
 }
 
@@ -96,24 +129,15 @@ body {
 
 /**************************** Blog Post ****************************/
 
+.date {
+    color: #d22042;
+}
+
 .article {
     margin-top: 90px;
     margin-top: 5rem;
     margin-bottom: 36px;
     margin-bottom: 2rem;
-}
-
-.date { /* moves date to left */
-	height: 0;
-	position: relative;
-	left: -88px;
-	color: #d22042;
-    line-height: 1.4;
-}
-
-.date div {
-	text-align: right;
-	width: 70px;
 }
 
 .article p {
