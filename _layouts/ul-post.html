@@ -10,12 +10,12 @@ layout: ul-page
 	        </a>
         </h1>
     </div>
-    <div class="date">
-	    <div>{{ page.date | date: "%d" }}</div>
-	    <div>{{ page.date | date: "%b" }}</div>
-	    <div>{{ page.date | date: "%Y" }}</div>
-    </div>
     <div class="centered">
+        <div class="date">
+	        <div>{{ page.date | date: "%d" }}</div>
+	        <div>{{ page.date | date: "%b" }}</div>
+	        <div>{{ page.date | date: "%Y" }}</div>
+        </div>
         {{ content }}
     </div>
 </div>
