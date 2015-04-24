@@ -8,6 +8,8 @@ I finally got my hands on some cuben fiber and made a 15l pack out of it. The si
 
 ![Front view]({{ site.ul-base }}/img/2012/Cuben-Fiber-Daypack/front.jpg)
 
+<!--more-->
+
 I tried making the pack sew-free and waterproof by taping all the seams. The tape started peeling so I backed up the seams with stitching, the cuben doesn't seem to be completely waterproof anyway (though close enough). I didn't put any padding in the straps, to compensate for this I made the straps very wide (8cm). This worked well, I've never felt discomfort even when carrying about 4kg. But the part of the strap lower down, where it goes under the shoulder, has bunched up into a tapered shape; I will try and mimic this shape with my next pack.
 
 ![Front view]({{ site.ul-base }}/img/2012/Cuben-Fiber-Daypack/strap.jpg)

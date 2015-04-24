@@ -10,6 +10,8 @@ For my first trip I rode the South Downs Way; a 160km long national trail runnin
 
 ![At the top of Old Winchester Hill]({{ site.ul-base }}/img/2015/South-Downs-Way/Old-Winchester-Hill.jpg)
 
+<!--more-->
+
 I set off from London by train on a clear Friday evening. I arrived after dark and with some solid navigation guesswork I made my way through Winchester to the start of the South Downs Way. I soon discovered that riding at night was incredible fun, I made a plan to do more the following night. I rode for around an hour and picked what seemed like a decent bivvy spot just off the way.
 
 I chose to use a bivvy bag on this trip for a few reasons. Firstly, stealth, I was wild camping and the South Downs aren't very remote. Secondly, simplicity, bivvying is just easier. Thirdly, my current shelter relies on a hiking pole, which I didn't want to carry with me; I have since purchased a pole for my shelter. I've found that bivvying doesn't work if there is more than light rain, I had looked at the forecast and knew that it was unlikely that there would be any rain.

@@ -8,6 +8,8 @@ My Christmas present this year was a Petzl e+LITE headtorch. My current headtorc
 
 ![Petzl eLITE]({{ site.ul-base }}/img/2012/Petzl-e+LITE-Modification/torch.jpg)
 
+<!--more-->
+
 The strap adjuster is also a small whistle. I've never really liked the idea of multi-purpose gear and preferred the "do one thing and do it well" philosophy. The whistle produces a 100dB sound, I think a more powerful 120dB is worth the 10 or so extra grams.
 
 ![Whistle]({{ site.ul-base }}/img/2012/Petzl-e+LITE-Modification/whistle.jpg)

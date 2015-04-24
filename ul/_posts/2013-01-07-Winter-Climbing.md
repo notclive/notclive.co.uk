@@ -9,6 +9,8 @@ It was great fun and I would totally recommend it to anyone who rock climbs.
 
 ![Joel climbing]({{ site.ul-base }}/img/2013/Winter-Climbing/joel.jpg)
 
+<!--more-->
+
 ##Reviews##
 I tried out a lot of new gear, so I've written some micro-reviews.
 

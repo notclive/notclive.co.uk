@@ -5,6 +5,8 @@ title: Brecon Beacons
 
 I didn’t have a real goal for this trip I just wanted to go and do some hiking. I ended up hiking about 92km and getting 15 peaks above 2000m. Regrettably I forgot to bring a camera on this trip so have no photos.
 
+<!--more-->
+
 I made changes to my gear based on my hike in Snowdonia, so I was testing new gear yet again. I added a pertex top to my groundsheet to make a windproof/water-resistant bivy bag, this kept me a lot warmer as draughts couldn’t get through my quilt. In the longer term I will make a new bigger quilt probably making it full size and only using my down jacket in the winter.
 
 ##Trip Report##

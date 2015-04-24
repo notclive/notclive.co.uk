@@ -9,5 +9,6 @@ I've been cycling more recently and wanted to carry a water bottle within reach,
 
 ![Close Up]({{ site.ul-base }}/img/2013/Frame-Pack/Close-Up.jpg)
 
-The size allows my to fit a water bottle to the frame, but is big enough for me to carry a small D-lock and tools. The material is [VX03](http://www.extremtextil.de/catalog/X-Pac-VX03-backpack-laminate-140g-sqm::1857.html) a 140g/sqm version of x-pac. To stop the central strap from sliding backwards, the pack contains a thin frame made from a [polyamid sheet](http://www.extremtextil.de/catalog/Polyamid-0-5mm-sheets::802.html). The pack weighs 80g.
+<!--more-->
 
+The size allows my to fit a water bottle to the frame, but is big enough for me to carry a small D-lock and tools. The material is [VX03](http://www.extremtextil.de/catalog/X-Pac-VX03-backpack-laminate-140g-sqm::1857.html) a 140g/sqm version of x-pac. To stop the central strap from sliding backwards, the pack contains a thin frame made from a [polyamid sheet](http://www.extremtextil.de/catalog/Polyamid-0-5mm-sheets::802.html). The pack weighs 80g.

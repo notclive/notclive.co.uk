@@ -8,6 +8,8 @@ I've just finished making a new down quilt. I was previously using a MYOG half q
 
 ![MYOG Down Quilt]({{ site.ul-base }}/img/2011/Down-Quilt/quilt1.jpg)
 
+<!--more-->
+
 The shell weighs around 200g and is made of [44g/sqm nylon](http://www.extremtextil.de/catalog/Ripstop-Nylon-impregnated-inner-tent-44-g-sqm::463.html) and [17g/sqm mosquito netting](http://www.extremtextil.de/catalog/Mosquito-Net-polyamide-140-mesh-qcm-17g-sqm-superultralight::1565.html) for the baffles, the nylon isn't described as down-proof but seems to be all right so far (edit: I would not use this nylon again with down, it leaks a lot of down). The fill is 260g of 900/850 fill power down. This gives a total weight of 460g. I could go lighter by using a lighter shell material but wanted to keep costs down, I hope to remake it sometime with a lighter nylon.
 
 ![Footbox]({{ site.ul-base }}/img/2011/Down-Quilt/footbox.jpg)

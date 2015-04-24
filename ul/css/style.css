@@ -81,6 +81,10 @@ body {
 	background: #0F0F00;
 }
 
+.header a {
+    color: #FFFF91;
+}
+
 .header .titles {
 	margin-bottom: 18px;
 	margin-bottom: 1rem;
@@ -159,4 +163,8 @@ body {
 
 .article a:hover {
 	text-decoration: none;
+}
+
+.pull-right {
+    float: right;
 }
