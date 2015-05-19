@@ -30,6 +30,7 @@ My second night was much warmer due to a better pitch and a more sheltered locat
 [My base pack weight was 4.4kg](http://lighterpack.com/r/bywfoa), with the pack approaching 10kg total weight with full food and water.
 I was using the Mountain Hardwear Scrambler ULT which is a 30L pack, I feel like 10kg is near the limit of the weight this pack can hold comfortably.
 The weight felt very good, while I will continue to reduce my pack weight, I feel I've reached a comfortable three season weight.
+The pack has a small 20mm hip-belt. I experimented with not using the hip-belt to see how it affects the comfort, I was surprised by how much of a difference such a small waist belt makes to the comfort.
 
 The current easiest place for me to reduce weight will be by looking at the food I carry.
 Firstly, I can simply carry less food and rely on eating at cafes, pubs or resupplying at shops.
