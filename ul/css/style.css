@@ -1,170 +1,170 @@
 html {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 body {
-    color: #0F0F00;
-    margin: 0;
-	font-family: sans-serif;
-    background-image: linear-gradient( top, #fff 0%, #eee 100% );
-    background-image: -o-linear-gradient( top, #fff 0%, #eee 100% );
-    background-image: -moz-linear-gradient( top, #fff 0%, #eee 100% );
-    background-image: -webkit-linear-gradient( top, #fff 0%, #eee 100% );
-    background-image: -ms-linear-gradient( top, #fff 0%, #eee 100% );
+  color: #0F0F00;
+  margin: 0;
+  font-family: sans-serif;
+  background-image: linear-gradient( top, #fff 0%, #eee 100% );
+  background-image: -o-linear-gradient( top, #fff 0%, #eee 100% );
+  background-image: -moz-linear-gradient( top, #fff 0%, #eee 100% );
+  background-image: -webkit-linear-gradient( top, #fff 0%, #eee 100% );
+  background-image: -ms-linear-gradient( top, #fff 0%, #eee 100% );
 }
 
 .centered {
-	max-width: 920px;
-	margin-left: auto;
-	margin-right: auto;
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* moves date below header */
 @media (max-width: 800px) {
 
-    .date {
-        margin-bottom: 18px;
-        margin-bottom: 1rem;
-    }
+  .date {
+    margin-bottom: 18px;
+    margin-bottom: 1rem;
+  }
 
-    .date div {
-        display: inline-block;
-    }
-    
-    .centered {
-        padding: 0 18px;
-        padding: 0 1rem;
-    }
+  .date div {
+    display: inline-block;
+  }
+
+  .centered {
+    padding: 0 18px;
+    padding: 0 1rem;
+  }
 }
 
 /* moves date to left */
 @media (min-width: 800px) {
 
-	html {
-		font-size: 20px
-	}
+  html {
+    font-size: 20px
+  }
 
-    .date {
-	    height: 0;
-	    position: relative;
-	    left: -88px;
-	    color: #d22042;
-        line-height: 1.4;
-    }
+  .date {
+    height: 0;
+    position: relative;
+    left: -88px;
+    color: #d22042;
+    line-height: 1.4;
+  }
 
-    .date div {
-	    text-align: right;
-	    width: 70px;
-    }
-    
-    .centered {
-        padding: 0 90px;
-    }
+  .date div {
+    text-align: right;
+    width: 70px;
+  }
+
+  .centered {
+    padding: 0 90px;
+  }
 }
 
 @media (min-width: 1100px) {
 
-    html {
-        font-size: 22px
-    }
+  html {
+    font-size: 22px
+  }
 }
 
 /**************************** Header Bar ****************************/
 
 .header {
-	padding: 18px 0;
-	padding: 1rem 0;
-	margin-bottom: 18px;
-    margin-bottom: 1rem;
-	font-family: Raleway;
-	color: #FFFF91;
-	background: #0F0F00;
+  padding: 18px 0;
+  padding: 1rem 0;
+  margin-bottom: 18px;
+  margin-bottom: 1rem;
+  font-family: Raleway;
+  color: #FFFF91;
+  background: #0F0F00;
 }
 
 .header a {
-    color: #FFFF91;
+  color: #FFFF91;
 }
 
 .header .titles {
-	margin-bottom: 18px;
-	margin-bottom: 1rem;
+  margin-bottom: 18px;
+  margin-bottom: 1rem;
 }
 
 .titles h1, .titles h2 {
-	margin: 0;
-	display: inline-block;
+  margin: 0;
+  display: inline-block;
 }
 
 .titles h1 {
-	margin-right: 18px;
-	margin-right: 1rem;
+  margin-right: 18px;
+  margin-right: 1rem;
 }
 
 .header h1 {
-	font-weight: normal;
-	font-size: 54px;
-	font-size: 3rem;
+  font-weight: normal;
+  font-size: 54px;
+  font-size: 3rem;
 }
 
 .header h2 {
-    font-size: 36px;
-	font-size: 2rem;
+  font-size: 36px;
+  font-size: 2rem;
 }
 
 .header h1, .header h2 {
-	margin-top: 0;
-	margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .header h1 a, .header h2 a {
-	color: #FFFF91;
-	text-decoration: none;
+  color: #FFFF91;
+  text-decoration: none;
 }
 
 .header a:hover {
-    color: #FFFFB5;
+  color: #FFFFB5;
 }
 
 .banner {
-	height: 250px;
-	background-size: cover;
-	background-position: center;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
 }
 
 /**************************** Blog Post ****************************/
 
 .date {
-    color: #d22042;
+  color: #d22042;
 }
 
 .article {
-    margin-top: 90px;
-    margin-top: 5rem;
-    margin-bottom: 36px;
-    margin-bottom: 2rem;
+  margin-top: 90px;
+  margin-top: 5rem;
+  margin-bottom: 36px;
+  margin-bottom: 2rem;
 }
 
 .article p {
-	margin: 0 0 18px;
-	margin: 0 0 1rem;
-    line-height: 1.4;
+  margin: 0 0 18px;
+  margin: 0 0 1rem;
+  line-height: 1.4;
 }
 
 .article img {
-	max-width: 80%;
-	max-height: 800px;
-	border: 1px solid #0F0F00;
-	padding: 5px;
+  max-width: 80%;
+  max-height: 800px;
+  border: 1px solid #0F0F00;
+  padding: 5px;
 }
 
 .article a {
-    color: #30c4c9;
+  color: #30c4c9;
 }
 
 .article a:hover {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .pull-right {
-    float: right;
+  float: right;
 }
