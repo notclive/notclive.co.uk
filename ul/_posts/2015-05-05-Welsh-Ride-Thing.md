@@ -11,7 +11,7 @@ The set-off was every bit as unceremonious as I hoped it would be, and somehow t
 
 <!--more-->
 
-After the [South Downs Way]({% post_url 2015/2015-03-30-Bikepacking-South-Downs-Way %}) I bought some Salsa Anything Cages to move weight towards the front of the bike.
+After the [South Downs Way]({% post_url ul/2015-03-30-Bikepacking-South-Downs-Way %}) I bought some Salsa Anything Cages to move weight towards the front of the bike.
 Whilst this worked and my front wheel didn't lift on steep uphills, the cages caused worse problems. I packed them with Exped UL drybags, these bags are made from a very thin silnylon, which allowed the contents of my drybags to deform and slip under the straps. On two occasions my drybags slipped out of the cages and went into my front wheel, splitting a food bag on one occasion.
 I will be getting a frame bag instead for the next trip, hopefully this will provide enough capacity to carry everything I need without the cages.
 
@@ -27,7 +27,7 @@ A major event of the Welsh Ride Thing is the weigh in, where everyones bike and 
 My kit came in at 21kg, which is what I was expecting [based on my kit list](http://lighterpack.com/r/c5wdfw). This was split roughly into 14.5kg for the bike, 2.5kg of food, and 4kg for everything else. My pack weight was higher than 4kg as I was wearing a lot of clothing during the weigh in.
 The lightest weight achieved was around the same weight as my bike alone. This is where most of my weight savings will come from, while I can reduce some weight from my packed weight, there is a lot more potential to reduce weight from the bike.
 
-Following on from my review of the [Pennine Way trip]({% post_url 2015/2015-03-30-Bikepacking-South-Downs-Way %}) I reduced the amount of food carried. I reduced the number of cooked meals, and brought more calorie dense snacks instead. I bought food whenever I passed a shop and stopped for a pub lunch on Sunday afternoon. This worked really well, I didn't go hungry and even had food left over at the end.
+Following on from my review of the [Pennine Way trip]({% post_url ul/2015-04-20-Pennine-Way %}) I reduced the amount of food carried. I reduced the number of cooked meals, and brought more calorie dense snacks instead. I bought food whenever I passed a shop and stopped for a pub lunch on Sunday afternoon. This worked really well, I didn't go hungry and even had food left over at the end.
 
 ![Hanging around before the start]({{ site.ul-base }}/img/2015/Welsh-Ride-Thing/Start.jpg)
 
