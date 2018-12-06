@@ -1,31 +1,61 @@
----
-layout: ul-page
----
-
-<div class="article">
-    <div class="header">
-        <h1 class="centered">
-	        <a href="{{ page.url }}">
-		        {{ page.title }}
-	        </a>
-        </h1>
-    </div>
-    <div class="centered">
-        <div class="date">
-	        <div>{{ page.date | date: "%d" }}</div>
-	        <div>{{ page.date | date: "%b" }}</div>
-	        <div>{{ page.date | date: "%Y" }}</div>
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <meta name="author" content="Jonathan Price" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" href="{{ site.ul-base }}/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway:100">
+    <link rel="stylesheet" type="text/css" href="{{ site.ul-base }}/css/style.css" />
+    <link rel="alternate" type="application/rss+xml" href="{{ site.ul-base }}/Ultralight-UK.rss" />
+    <script type="text/javascript">
+		  var _gaq = _gaq || [];
+  		  _gaq.push(['_setAccount', 'UA-36562901-2']);
+  		  _gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	</head>
+	<body>
+		<div class="header">
+			<div class="titles centered">
+				<h1><a href="{{ site.ul-base }}/">Ultralight UK</a></h1>
+				<h2>Ultralight Hiking in the UK</h2>
+			</div>
+			{% if page.banner %}
+    			<div style="background-image: url({{ site.ul-base }}/{{ page.banner }})" class="banner"></div>
+			{% else %}
+				<div style="background-image: url({{ site.ul-base }}/{{ site.ul-banner }})" class="banner"></div>
+			{% endif %}
+		</div>
+        <div class="article">
+            <div class="header">
+                <h1 class="centered">
+                    <a href="{{ page.url }}">
+                        {{ page.title }}
+                    </a>
+                </h1>
+            </div>
+            <div class="centered">
+                <div class="date">
+                    <div>{{ page.date | date: "%d" }}</div>
+                    <div>{{ page.date | date: "%b" }}</div>
+                    <div>{{ page.date | date: "%Y" }}</div>
+                </div>
+                {{ content }}
+            </div>
         </div>
-        {{ content }}
-    </div>
-</div>
+		<div class="article centered">
+			<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ultralight UK</span>
+ 			by
+			<a xmlns:cc="http://creativecommons.org/ns#" href="http://notclive.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Jonathan Price</a>
+		  	is licensed under a
+		  	<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://creativecommons.org']);">Creative Commons License</a>.
+		</div>
+	</body>
+</html>
 
-<div class="article centered" id="disqus_thread"></div>
-<script type="text/javascript">
-    var disqus_shortname = 'ultralightuk';
-    (function() {
-	    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-	    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
