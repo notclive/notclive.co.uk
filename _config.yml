@@ -1,3 +1,4 @@
+# Ultralight
 ul-base: /ul
 ul-banner: img/2011/Welsh-3000ers/banner.jpg
 
@@ -6,3 +7,11 @@ permalink: /:categories/:year/:title
 paginate: 5
 paginate_path: /ul/:num/
 excerpt_separator: <!--more-->
+
+# Software Development
+theme: jekyll-theme-cayman
+title: [Jonathan Price]
+description: [Making things with Software]
+show_downloads: false
+github:
+  is_project_page: false
