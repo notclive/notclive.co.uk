@@ -13,5 +13,6 @@ theme: jekyll-theme-cayman
 title: [Jonathan Price]
 description: [Making things with Software]
 show_downloads: false
+google_analytics: [UA-36562901-4]
 github:
   is_project_page: false
