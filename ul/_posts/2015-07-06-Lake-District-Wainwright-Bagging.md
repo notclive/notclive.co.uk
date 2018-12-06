@@ -17,8 +17,6 @@ The lake district remains my favourite place to hike, it provides the right mix 
 
 ## The Route
 
-<iframe src="http://www.gpsies.com/mapOnly.do?fileId=wvbssfutlzujbgvx" style="width:100%;height:600px" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-
 The route was quite difficult to navigate in places especially when submerged in cloud. The lesser visited summits had no obvious paths to the top, so good map and compass skills were critical. I am now very comfortable going cross country off the worn trails, but I still forget how much this reduces the pace.
 
 ## My Gear
