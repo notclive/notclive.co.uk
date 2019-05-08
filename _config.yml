@@ -1,12 +1,7 @@
 # Ultralight
 ul-base: /ul
 ul-banner: img/2011/Welsh-3000ers/banner.jpg
-
 permalink: /:categories/:year/:title
-
-paginate: 5
-paginate_path: /ul/:num/
-excerpt_separator: <!--more-->
 
 # Software Development
 theme: jekyll-theme-cayman
