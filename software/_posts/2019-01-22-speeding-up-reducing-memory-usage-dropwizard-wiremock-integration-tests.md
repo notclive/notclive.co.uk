@@ -4,7 +4,7 @@ title: Speeding Up and Reducing Memory Usage in Dropwizard and WireMock Integrat
 
 ### {{ page.date | date: "%B %Y" }}
 
-# {{page.title}}
+# [{{ page.title }}]({{ page.url }})
 
 ## Problem
 

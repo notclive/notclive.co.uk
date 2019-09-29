@@ -4,7 +4,7 @@ title: Investigating an Increase in Response Times After Upgrading to Spring Boo
 
 ### {{ page.date | date: "%B %Y" }}
 
-# {{page.title}}
+# [{{ page.title }}]({{ page.url }})
 
 ## Problem
 
